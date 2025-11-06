@@ -1,0 +1,60 @@
+h1, h2 {
+	text-align: center;
+	text-decoration-line: line-through;
+	text-shadow: 3px 4px 6px green;
+	background-color: lightgray;
+}
+
+.color-red {
+	color: red;
+}
+
+.big-text {
+	font-size: 30px;
+}
+
+#rounded-img {
+	border-radius: 50px;
+}
+
+body {
+	background-color: lightyellow
+}
+
+.border {
+	border-style: double dashed double dashed;
+}
+
+.arial {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.table {
+	width: 500px;
+	background-color: #7FD4C7;
+	border: 3px solid black;
+	border-style: double;
+}
+
+th, td {
+	padding: 20px;
+	text-align: right;
+	border: 1px solid violet;
+}
+
+ul {
+	list-style-type: lower-roman;
+}
+
+#grad {
+	background-image: radial-gradient(lightgray, lightpink, lightyellow);
+}
+
+.bananier {
+	text-transform: uppercase;
+	color: #4C3EDB;
+}
+
+#comicsans {
+	font-family: "Comic Sans", serif;
+}
